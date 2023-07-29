@@ -1,4 +1,11 @@
-### Hi there 👋
+<div align="center"> 
+
+### 👋 Welcome my github profile !👩‍💻
+
+
+
+![enjoy89's GitHub stats](https://github-readme-stats.vercel.app/api?username=enjoy89&show_icons=true&theme=ayu-mirage)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enjoy89&layout=compact&theme=ayu-mirage)
 
 <!--
 **enjoy89/enjoy89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
